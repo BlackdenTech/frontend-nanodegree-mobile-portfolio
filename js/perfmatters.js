@@ -11,4 +11,8 @@ function logCRP() {
 
 window.addEventListener("load", function(event) {
   logCRP();
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> parent of 8a949bc... Reduced # of Pizzas in background
